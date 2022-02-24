@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @nikkotov777
+- 👀 I’m interested in DevOps and programming...
+- 🌱 I’m currently learning Linux and different programming languages...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... 
+
+Я обучаю и учусь всегда.
+Скоро здесь будут появляться какие-то мои изучения и наработки для общей публики и не только.
+
+<!---
+nikkotov777/nikkotov777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
