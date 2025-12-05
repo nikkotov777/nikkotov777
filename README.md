@@ -7,7 +7,7 @@
 <div align="left">
   <img align="right" height="120" src="https://media.tenor.com/1n056RzcGLoAAAAi/snow-globe-snow.gif" />
   
-  <h3>🚀 Николай | Full-Stack Developer</h3>
+  <h3>👨‍💻 Николай | Full-Stack Developer <img src="https://visitor-badge.laobi.icu/badge?page_id=nikkotov777.nikkotov777&right_color=lightcoral&left_text=PROFILE%20VIEWS"  /></h3>
   
   <p>
     <img src="https://img.shields.io/badge/-Digital_Aristocrat-667eea" /> 
@@ -27,7 +27,7 @@
   <p>🎨 <strong>Творчество:</strong></p>
   <p>• Фотография и видеосъёмка<br>
   • Создание контента<br>
-  • ❤️ Любовь к котикам</p>
+  • ❤️ Люблю милых котят :)</p>
   
   <p>✍️ <strong>Блог о технологиях:</strong><br>
   <a href="https://t.me/firsthonest" target="_blank">
